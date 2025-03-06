@@ -7,3 +7,4 @@ resource "aws_instance" "two" {
   tags = {
     Name = "hcp-server"
 }
+}
