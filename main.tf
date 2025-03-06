@@ -6,4 +6,4 @@ resource "aws_instance" "two" {
   instance_type = "t2.micro"
   tags = {
     Name = "hcp-server"
-  
+}
